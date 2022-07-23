@@ -20,6 +20,10 @@
 [![icons8-mysql-logo-48](https://user-images.githubusercontent.com/74541595/179397677-e0c6910c-db16-4a0c-a4a1-44aba86c7d35.png)](https://www.mysql.com/)
 
 
+## Curriculum Vitae (Résumé)
+[![cv](https://user-images.githubusercontent.com/74541595/180615167-4281c951-07e0-4350-be9b-63f8836b7f70.png)](https://drive.google.com/file/d/10TKtNmRn0lt9q5zTurwGn7X2gfgmYYW9/view?usp=sharing)
+
+
 ## Status
 [![EngRobot33's GitHub stats](https://github-readme-stats.vercel.app/api?username=EngRobot33)](https://github.com/anuraghazra/github-readme-stats)
 
