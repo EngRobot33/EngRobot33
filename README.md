@@ -8,7 +8,7 @@
 
 ## Connect with me
 [![icons8-twitter-48](https://user-images.githubusercontent.com/74541595/179396963-19c09b21-ac62-4a83-b7ec-f7dc202f6430.png)](https://twitter.com/hmdkhsrvee)
-[![icons8-linkedin-48](https://user-images.githubusercontent.com/74541595/179397144-552658c1-0a28-46b5-be2b-3fbf85ace9d8.png)](https://www.linkedin.com/in/hamed-khosravi-aa8446203)
+[![icons8-linkedin-48](https://user-images.githubusercontent.com/74541595/179397144-552658c1-0a28-46b5-be2b-3fbf85ace9d8.png)](https://www.linkedin.com/in/hmdkhsrvee)
 [![icons8-gmail-48](https://user-images.githubusercontent.com/74541595/179397245-37cdb849-4283-4f70-956c-f2e739e44401.png)](mailto:hmdkhsrvee@gmail.com)
 
 
