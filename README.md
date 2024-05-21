@@ -17,7 +17,7 @@
 
 
 ## Résumé
-[![cv](https://user-images.githubusercontent.com/74541595/180615167-4281c951-07e0-4350-be9b-63f8836b7f70.png)](https://drive.google.com/file/d/1T_y_JZ8bpUJQsela2Fa-gqSc0Gq2OGpr/view?usp=sharing)
+[![cv](https://user-images.githubusercontent.com/74541595/180615167-4281c951-07e0-4350-be9b-63f8836b7f70.png)](https://drive.google.com/file/d/17QQC__Exx0Vuj9Cx-dR-A-MdF0XOyxp9/view?usp=sharing)
 
 
 ## Status
